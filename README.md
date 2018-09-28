@@ -1,1 +1,3 @@
 # hazzle
+
+Updated the README!
